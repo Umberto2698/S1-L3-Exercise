@@ -1,0 +1,54 @@
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 200px;
+}
+
+.header {
+  text-align: center;
+  height: 40px;
+  background: linear-gradient(to bottom, #ffeab6, white);
+}
+.header p {
+  color: #14787a;
+}
+
+.page {
+  width: 600px;
+  text-align: left;
+  margin-inline: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.img img {
+  border-radius: 15px;
+  width: 600px;
+  box-shadow: 5px 5px rgb(156, 156, 156, 0.2);
+}
+.img p {
+  text-align: center;
+  color: rgb(156, 156, 156);
+}
+
+.feature h4 {
+  color: #c16335;
+  margin-bottom: 0;
+}
+.feature a {
+  color: #14787a;
+}
+.feature {
+  padding-left: 10px;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-color: #ffeab6;
+}
+
+caption {
+  font-size: bold;
+}
