@@ -14,6 +14,9 @@
 .header p {
   color: #14787a;
 }
+.header hr {
+  border-color: #ffedc2;
+}
 
 .page {
   width: 600px;
@@ -23,6 +26,8 @@
 
 h1 {
   text-align: center;
+  font-size: 30px;
+  font-weight: 700;
 }
 
 .img img {
@@ -49,6 +54,18 @@ h1 {
   border-color: #ffeab6;
 }
 
-caption {
-  font-size: bold;
+.ingredients p {
+  font-weight: bold;
+}
+
+ul {
+  line-height: 25px;
+}
+
+.Homepage {
+  color: #14787a;
+}
+
+hr {
+  border-color: #c7fcff;
 }
